@@ -1,4 +1,4 @@
-## Welcome to Brian Liu's GitHub profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Welcome to Brian Liu's GitHub profile!
 ### Here are some facts about me...
 - Pronouns: He/Him
 - 📖 Studying at **Turing School of Software & Design** out of **Denver, Colorado** (backend program)
